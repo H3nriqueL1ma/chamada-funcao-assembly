@@ -1,4 +1,4 @@
-NAME = comparison-of-values
+NAME = program-function-call
 
 all: $(NAME).o
 	ld -s -o $(NAME) $(NAME).o
